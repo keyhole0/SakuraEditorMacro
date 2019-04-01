@@ -1,0 +1,2 @@
+# SakuraEditorMacro
+サクラエディタ用マクロ
